@@ -15,7 +15,7 @@ That being said, #GoSharks.
 
 I used a face generating GAN in which a generator creates images and is trained to generate faces based off of responses from a 
 discriminator, which is able to discriminate between what is not and is not a face. I trained the model on the dataset I created
-by scraping player photos from twenty years' worth of NHL player rosters. The github repository that provided a basis for my model is
+by scraping player photos from twenty years' worth of NHL rosters. The github repository that provided a basis for my model is
 included in my references.
 
 
