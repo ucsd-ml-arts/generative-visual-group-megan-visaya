@@ -21,28 +21,19 @@ included in my references.
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+Included in this repository are the Python notebooks for training the model and producing an output (MrHockey.ipynb) as well as generating the dataset and the dataset itself (ECE198_Project4_DataCollection.ipynb, nhlroster_urls.txt, nhl_images.zip). 
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+As above.
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- move files (uploaded to youtube or vimeo due to github file size limits)
-- ... some other form
+Example outputs are included in the Example folder.
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+Necessary modules are listed in the Setup block at the top of the model notebook, and can be installed using pip.
 
 ## Reference
 
