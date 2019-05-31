@@ -4,7 +4,7 @@ Megan Visaya, mvisaya@ucsd.edu
 
 ## Abstract
 
-Ice hockey is, arguably, the Whitest Sport among those which are associated with one of the Big Four professional athletic
+Ice hockey is objectively the Whitest Sport among those which are associated with one of the Big Four professional athletic
 leagues in the United States (i.e., the NHL, the NFL, the NBA, and MLB). I took on this project to comment on how our understanding of 
 what a hockey player--or a CEO, or a president, or a criminal--looks like is shaped by "typical representation", which in turn is 
 informed by historical violence, marginalization and systems which perpetuate imbalances of power. The homogeneity of the images 
